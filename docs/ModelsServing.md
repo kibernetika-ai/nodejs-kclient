@@ -1,0 +1,41 @@
+# KibernetikaProjectBackendComponent.ModelsServing
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**inferenceValues** | **Object** |  | [optional] 
+**displayName** | **String** |  | [optional] 
+**userDisplayName** | **String** |  | [optional] 
+**clusterID** | **String** |  | [optional] 
+**health** | **String** |  | [optional] 
+**build** | **String** |  | [optional] 
+**userID** | **String** |  | [optional] 
+**healthError** | **String** |  | [optional] 
+**config** | [**MlappUniversalServing**](MlappUniversalServing.md) |  | [optional] 
+**status** | **String** |  | [optional] 
+**inferenceName** | **String** |  | [optional] 
+**description** | **String** |  | [optional] 
+**type** | **String** |  | [optional] 
+**gPUUsed** | **Number** |  | [optional] 
+**applicationDisplayName** | **String** |  | [optional] 
+**inferenceVersion** | **String** |  | [optional] 
+**workspaceDisplayName** | **String** |  | [optional] 
+**userLogin** | **String** |  | [optional] 
+**gallery** | **Boolean** |  | [optional] 
+**applicationName** | **String** |  | [optional] 
+**inferenceForm** | [**[ModelsTaskFormElement]**](ModelsTaskFormElement.md) |  | [optional] 
+**task** | **String** |  | [optional] 
+**name** | **String** |  | [optional] 
+**picture** | **String** |  | [optional] 
+**innerAddress** | **String** |  | [optional] 
+**containersCount** | **Number** |  | [optional] 
+**inferenceStreams** | [**[ModelsTaskFormElementStreamExtended]**](ModelsTaskFormElementStreamExtended.md) |  | [optional] 
+**inferenceWorkspaceDisplayName** | **String** |  | [optional] 
+**ID** | **String** |  | [optional] 
+**statusMessage** | **String** |  | [optional] 
+**galleryTags** | **[String]** |  | [optional] 
+**disabled** | **Boolean** |  | [optional] 
+**workspaceName** | **String** |  | [optional] 
+**inferenceWorkspaceName** | **String** |  | [optional] 
+
+

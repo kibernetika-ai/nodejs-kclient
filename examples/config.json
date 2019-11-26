@@ -1,0 +1,8 @@
+{
+  "token" : "Bearer b6854018-43a6-4300-a44e-2c4abacc3cfc",
+  "workspaceInference" : "ilja-org",
+  "inferenceName" : "just-for-test",
+  "inferenceVersion" : "1.0.0",
+  "workspaceServing": "ilja-org",
+  "servingName": "just-for-test-1-0-0"
+}
