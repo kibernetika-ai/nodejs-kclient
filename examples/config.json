@@ -1,8 +1,8 @@
 {
   "token" : "Bearer xxxx",
-  "workspaceInference" : "ilja-org",
-  "inferenceName" : "just-for-test",
+  "workspaceInference" : "kuberlab-demo",
+  "inferenceName" : "demo",
   "inferenceVersion" : "1.0.0",
   "workspaceServing": "ilja-org",
-  "servingName": "just-for-test-1-0-0"
+  "servingName": "demo-1-0-0"
 }
